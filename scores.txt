@@ -1,0 +1,5 @@
+Chuck	1500
+Player A	470
+Player B	370
+Player C	210
+Mcdnold	100
